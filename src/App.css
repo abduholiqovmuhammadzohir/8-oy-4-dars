@@ -1,0 +1,176 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+
+.container {
+  max-width: 778px;
+  width: 100%;
+  margin: 50px auto;
+  padding-top: 32px;
+  padding-left: 38px;
+  padding-right: 38px;
+}
+
+.header h2 {
+  margin-bottom: 16px;
+  font-size: 32px;
+  font-weight: 500;
+  line-height: 41.6px;
+  color: rgba(42, 41, 65, 1);
+}
+
+.header h5 {
+  font-size: 16px;
+  font-weight: 450;
+  line-height: 20.8px;
+  color: rgba(179, 179, 179, 1);
+  margin-bottom: 32px;
+}
+
+.dowlod {
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.dowlod h4 {
+  margin-left: 14px;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 20.24px;
+  color: rgba(83, 97, 228, 1);
+}
+
+.input label {
+  font-size: 14px;
+  font-weight: 450;
+  line-height: 17.71px;
+  margin-bottom: 8px;
+}
+
+.input input {
+  margin-top: 8px;
+  width: 702px;
+  padding-top: 18px;
+  padding-left: 18px;
+  padding-bottom: 20px;
+  border-radius: 10px;
+  border: 1px solid rgba(227, 227, 227, 1);
+  margin-bottom: 20px;
+}
+
+.icon {
+  margin-bottom: 20px;
+}
+
+.icon label {
+  font-size: 14px;
+  font-weight: 450;
+  line-height: 17.71px;
+  margin-bottom: 8px;
+}
+
+.icons {
+  margin-top: 8px;
+  margin-bottom: 20px;
+}
+
+.icons img {
+  margin-right: 8px;
+}
+
+.city {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 20px;
+}
+
+.inpu label {
+  font-size: 14px;
+  font-weight: 450;
+  line-height: 17.71px;
+  margin-bottom: 8px;
+}
+
+.inpu select {
+  margin-top: 8px;
+  width: 341px;
+  padding-top: 18px;
+  padding-left: 18px;
+  padding-bottom: 20px;
+  border-radius: 10px;
+  border: 1px solid rgba(227, 227, 227, 1);
+  margin-bottom: 20px;
+}
+
+.soni {
+  margin-bottom: 20px;
+}
+
+.soni label {
+  font-size: 14px;
+  font-weight: 450;
+  line-height: 17.71px;
+  margin-bottom: 8px;
+}
+
+.soni select {
+  margin-top: 8px;
+
+  padding-top: 18px;
+  padding-left: 18px;
+  padding-bottom: 20px;
+  border-radius: 10px;
+  border: 1px solid rgba(227, 227, 227, 1);
+}
+
+.izoh label {
+  font-size: 14px;
+  font-weight: 450;
+  line-height: 17.71px;
+  margin-bottom: 8px;
+}
+
+.izoh textarea {
+  margin-top: 8px;
+  width: 702px;
+  height: 148px;
+  border-radius: 10px;
+  border: 1px solid rgba(227, 227, 227, 1);
+  padding: 18px;
+  resize: none;
+  margin-bottom: 42px;
+}
+
+.button {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 100px;
+}
+
+.btn1 {
+  padding: 20px 59px;
+  border: none;
+  border-radius: 16px;
+  background: rgba(248, 248, 248, 1);
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 20.24px;
+  letter-spacing: 1px;
+  color: rgba(110, 109, 119, 1);
+}
+
+.btn2 {
+  padding: 20px 43px;
+  border: none;
+  border-radius: 16px;
+  background: rgba(83, 97, 228, 1);
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 20.24px;
+  letter-spacing: 1px;
+  color: rgba(255, 255, 255, 1);
+}
